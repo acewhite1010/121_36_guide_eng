@@ -1,0 +1,109 @@
+Notes and Captions for Resources
+
+Fig. 1.1: 1.16 biome distribution map. Source: [Chunkbase](https://www.chunkbase.com/apps/seed-map)
+
+Fig. 1.2: 1.21 biome distribution map. Source: [Chunkbase](https://www.chunkbase.com/apps/seed-map)
+
+Table 1.1: List of biomes and its resources. Translator note: I thought this would really benefit from some visual organization, so here's a table I made, content translated.
+
+Fig. 1.3: In the F3 screen, `NoiseRouter` indicates the 6 parameter values for the density functions, `Biome builder` indicates the respective levels for the 6 density functions.
+
+Fig. 1.4: A more in-depth explanation of the biome values. Source: [Minecraft Wiki](https://minecraft.wiki/w/World_generation#/media/File:World_generation_debug_info_explanation.png)
+
+Fig. 2.1: Game structure generation diagram (except strongholds). Here $M = 27$ chunks, $N = 23$ chunks. Translated from source: [Minecraft Wiki](https://zh.minecraft.wiki/w/%E4%B8%96%E7%95%8C%E7%94%9F%E6%88%90#/media/File:Java_Nether_Structure_Generation1.png)
+
+Fig. 2.2: Table of parameter values for in-game structure generation. Second column: $M$ (side length of the big square), third column: $D$ (spacing between small squares). Source: [Minecraft Wiki](https://minecraft.wiki/w/World_generation#Structures)
+
+Fig. 4.1: The most ideal spawn. Seed: -6906520426549049338
+
+Fig. 4.2: Desert with stone shore. Seed: -8446744073709551248
+
+Fig. 4.3: Mangrove-Desert combo. Seed: 5000000000000000002
+
+Fig. 5.1: Triple-chest rampart. 4 brutes are seen.
+
+Fig. 5.2: Bridge lodestone chest. 1 brute is seen.
+
+Fig. 5.3: Bridge single-chest rampart. No brutes are seen.
+
+Fig. 5.4: Top chest rooms. 2 brutes (left) and 3 brutes (right) are seen.
+
+Fig. 5.5: Bridge connecting the treasure room and the tower. 2 brutes are seen.
+
+Fig. 5.6: Bottom treasure. On the bottom bridge, 2 brutes are seen; middle treasure part: 1 brute is seen.
+
+Fig. 5.7: 5th floor of the treasure room. 2 brutes are seen.
+
+Fig. 5.8: A corner of the 1st floor of the treasure room. 1 brute is seen.
+
+Fig. 5.9: Common trading hole spot in the treasure room.
+
+<TASK: TRANSLATE>
+Fig. 5.10: Table of odds of getting 12 pearls from bartering in 1.16.2+, considering one successful barter provides 3 pearls. Gold block counts are rounded up.
+
+Fig. 5.11: Reserve one shulker as circled. Actually the top one also works.
+
+Fig. 5.12: The red circles on the F3 screen indicate current chunk coordinates; the blue circle indicate the angle you're currently facing.
+
+Fig. 6.1: One sniffer egg hatching setup, 4-door
+
+Fig. 6.2: Another sniffer egg hatching setup, 2-door, behind blocked with fences 
+
+Fig. 6.3: A classic example for a farming river, from the F3 screen (`Biome builder`): `E = 1`, which makes the river deep.
+
+Fig. 6.4: A good mountain range
+
+Fig. 6.5: A bad mountain range
+
+Fig. 6.6: Central statue of the ancient city
+
+Fig. 6.7: A room under the central statue, target block on the left, comparator on the right.
+
+Fig. 6.8: Good ocean, 2 monuments and some drowned clusters are seen.
+
+Fig. 6.9: Bad ocean, small area, shallow depth, no monuments or drowned seen.
+
+Fig. 6.10: Old Growth Spruce Taiga. Source: [Minecraft Wiki](https://zh.minecraft.wiki/w/%E5%8E%9F%E5%A7%8B%E9%92%88%E5%8F%B6%E6%9E%97#/media/File:Old_Growth_Spruce_Taiga.png)
+
+Fig. 6.11: Old Growth Pine Taiga. Source: [Minecraft Wiki](https://zh.minecraft.wiki/w/%E5%8E%9F%E5%A7%8B%E9%92%88%E5%8F%B6%E6%9E%97#/media/File:Old_Growth_Pine_Taiga.png)
+
+Fig. 6.12: Grove. Source: [Minecraft Wiki](https://zh.minecraft.wiki/w/%E5%B1%B1%E5%9C%B0#/media/File:Grove.png)
+
+Fig. 6.13: Snowy taiga. Source: [Minecraft Wiki](https://zh.minecraft.wiki/w/%E9%92%88%E5%8F%B6%E6%9E%97?variant=zh-cn#/media/File:Snowy_Taiga.png)
+
+Fig. 6.14: Variants of wolf fur. Translated from source: [Minecraft Wiki](https://zh.minecraft.wiki/w/%E7%8B%BC#/media/File:MCMonthly_Wolf_Variants_Simplified.png)
+
+Fig. 6.15: Inside an igloo, spawner-scanning pie chart. `minecraft:sign`, unique to igloos, can be seen.
+
+Fig. 6.16: Moon phases and relations between black cat, slime spawning. Source: [AA Resources Document](https://docs.google.com/document/d/11lVeSXB6N_ZEHDixc3q1zThlVTUQM_4ujgckxnOZ9Fs/edit?tab=t.0#heading=h.1664s55)
+
+Fig. 6.17: Two infected zombie villagers separated by water and blocks
+
+Fig. 6.18: 1.21-1.21.4 cartographer trading options.
+
+Fig. 6.19: 1.21.5 cartographer's 3 trading routes. To the right are resources needed. Source: [Post by @KaaziTheCreeper on Discord](https://discord.com/channels/835893596992438372/835898104543707206/1369655370640789605)
+
+Fig. 6.20: 50-block long staircase
+
+Fig. 6.21: Lava staircase
+
+Fig. 6.22: Frog color and its relation with biomes. Source: [Minecraft Fandom Wiki](https://minecraft.fandom.com/wiki/Frog#Spawning)
+
+Fig. 6.23: Trail ruins structure
+
+Fig. 6.24: Trail ruins: only some terracotta blocks and gravel being exposed.
+
+Fig. 6.25: "Surge Protector" strat setup
+
+<TASK: TRANSLATE> (Necessary?)
+Fig. 6.26: Table of odds of obtaining trims for 1.21 AA
+
+<TASK: TRANSLATE> (Necessary?)
+Fig. 6.27: Table of miscellaneous probabilities for 1.21 AA
+
+Fig. 6.28: Progress while doing end-game. Note that some miscellaneous advancements aren't done yet; in real runs more should be done than this.
+
+Fig. 7.1: HDWGH potion brewing diagram. Source: [Graphics by @LNXS](https://docs.google.com/document/d/11lVeSXB6N_ZEHDixc3q1zThlVTUQM_4ujgckxnOZ9Fs/edit?tab=t.0#heading=h.19c6y18)
+
+Fig. 7.2: Effects required for HDWGH. Source: [Graphics by @LNXS](https://docs.google.com/document/d/11lVeSXB6N_ZEHDixc3q1zThlVTUQM_4ujgckxnOZ9Fs/edit?tab=t.0#heading=h.19c6y18)
+
